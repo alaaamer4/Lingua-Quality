@@ -1,5 +1,7 @@
 export default {
   // example colors with dark mode
+
+  initialColorModeName: "light",
   colors: {
     text: "#343D48", // body color and primary color
     text_secondary: "#02073E", // secondary body color
