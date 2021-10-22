@@ -1,5 +1,5 @@
-/** @jsx jsx */
-import { useColorMode } from "@theme-ui/color-modes";
+/** @jsxImportSource theme-ui */
+import { useColorMode } from "theme-ui";
 import { jsx, Container, Flex, Button } from "theme-ui";
 import { keyframes } from "@emotion/react";
 import { Link } from "react-scroll";

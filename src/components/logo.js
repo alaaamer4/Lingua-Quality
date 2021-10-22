@@ -1,4 +1,4 @@
-/** @jsx jsx */
+/** @jsxImportSource theme-ui */
 import { jsx, Image, Flex } from "theme-ui";
 import { Link } from "components/link";
 
