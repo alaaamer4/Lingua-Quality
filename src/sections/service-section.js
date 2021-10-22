@@ -10,7 +10,7 @@ import {
   Button,
   Image,
 } from "theme-ui";
-import { keyframes } from "@emotion/core";
+import { keyframes } from "@emotion/react";
 import TextFeature from "components/text-feature";
 
 import ServiceThumb from "assets/service-thumb.png";
@@ -28,16 +28,14 @@ const data = {
       imgSrc: Smart,
       altText: "Smart Features",
       title: "Smart Features",
-      text:
-        "Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.",
+      text: "Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.",
     },
     {
       id: 2,
       imgSrc: Secure,
       altText: "Secure Contents",
       title: "Secure Contents",
-      text:
-        "Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.",
+      text: "Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.",
     },
   ],
 };

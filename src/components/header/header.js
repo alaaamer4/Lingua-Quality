@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { useColorMode } from "@theme-ui/color-modes";
 import { jsx, Container, Flex, Button } from "theme-ui";
-import { keyframes } from "@emotion/core";
+import { keyframes } from "@emotion/react";
 import { Link } from "react-scroll";
 import Logo from "components/logo";
 import LogoLight from "assets/logo.png";
